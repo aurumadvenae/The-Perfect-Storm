@@ -40,3 +40,46 @@ Temporal bias (this is primarily 2025 data, but as we are entering a solar maxim
 ### Publications of the research
 
 https://doi.org/10.5281/zenodo.17678602
+
+
+//Since messages and screenshots about this “solar influence research project” have now been circulated publicly without context, I am providing a clear explanation of what actually happened. 
+
+I was approached with data and volunteered to run statistical analyses as a favour, using proper scientific tools, for the sakw of discovering something new and giving help with proper tools. Unfortunately, I did this for someone who then attempted to rush the process, spam me for immediate responses, and ignore basic academic standards. Because this has spilled into public space, readers deserve the full picture.
+
+**1. My contribution was limited to running statistical tests using a validated, industry-grade statistical programme.**
+This is the type of *software used in biotechnology and medical research.*
+It is NOT comparable to AI-generated statistics, LLM guesses, or whatever formatting an LLM outputs.
+These are fundamentally different things.
+Scientific publication houses require real, analysed data. 
+
+
+**2. The approach taken here was not scientific.**
+
+Repeated spamming, demanding instant responses, and treating a dataset as something that must be “rushed out ASAP” is not how research works in any discipline. Treating this is a "grandiose" research does not fit the reality picture. 
+
+Science is not performed on Discord timelines or personal urgency.
+
+
+**3. The “victim card” does not replace methodology.**
+Personal circumstances do not excuse improper workflow, pushing collaborators, or ignoring the need for proper review.
+Emotional pressure is not a scientific argument.
+
+
+**4. Calling something “groundbreaking” does not make it groundbreaking.**
+Apart from sounding like a overblown news article, this is misleading. Solar activity influencing electronics has been known, documented, and engineered around for over fifty years.
+Claiming otherwise shows a lack of familiarity with even basic literature in the field.
+
+
+**5. Because of the misrepresentation, the lack of scientific process, and the pressure placed on me, I have revoked the use of my statistical work.**
+This is standard practice: if the context of use becomes inaccurate, unprofessional, or misleading, contributors have the right to withdraw their data.
+Real research has consequences.
+
+
+**6. To be blatantly explicit:**
+No one has permission to use, publish, reference, or redistribute any of the statistics or analysis I provided.
+**My revocation covers all submitted data up to this point.**
+Any further work must be redone independently, using your own tools and your own methodology.
+
+
+
+This concludes my involvement.
